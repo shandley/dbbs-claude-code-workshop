@@ -1,0 +1,3 @@
+Methods (draft)
+
+16S rRNA gene sequences from the Moving Pictures study (Caporaso et al., Genome Biology 2011; doi:10.1186/gb-2011-12-5-r05) were denoised with DADA2 and classified against Greengenes 13_8. Raw reads are available from ENA under study ERP021896.
