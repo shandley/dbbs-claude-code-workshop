@@ -14,6 +14,7 @@ Each folder has a `README.txt` that describes every file, where it came from, an
 - [Workshop guide](https://claude.ai/artifact/WRifNQs15PVYCqwgS8SYXR): Claude Code features with short exercises, and the steps for the data project.
 - [Terminal cheat sheet](https://claude.ai/artifact/DATRJWZRb4dNvoe6wobtJj): the few terminal commands you need to find a folder and start Claude Code.
 - [Git and GitHub cheat sheet](https://claude.ai/artifact/Bek9aLSPmZD8Fkghfk6hFY): what git and GitHub do when Claude Code manages them, and what to ask Claude.
+- [Advanced module](https://claude.ai/artifact/GCeakGrgaBtDPPkbkR4rZA): build a data validator skill, build a skill for your computing cluster, and review the bowtie2 source code with Claude. The `validation-challenge/` folder holds its data.
 
 ## Getting the files
 
