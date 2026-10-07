@@ -14,6 +14,8 @@ Each folder has a `README.txt` that describes every file, where it came from, an
 - [Workshop guide](https://claude.ai/artifact/WRifNQs15PVYCqwgS8SYXR): Claude Code features with short exercises, and the steps for the data project.
 - [Terminal cheat sheet](https://claude.ai/artifact/DATRJWZRb4dNvoe6wobtJj): the few terminal commands you need to find a folder and start Claude Code.
 - [Git and GitHub cheat sheet](https://claude.ai/artifact/Bek9aLSPmZD8Fkghfk6hFY): what git and GitHub do when Claude Code manages them, and what to ask Claude.
+- [Project wheel](https://claude.ai/artifact/JjtCTRf3nRBpPtYwKDoAZ8): spin for a one-day data project in genomics or microbiology.
+- [Software project wheel](https://claude.ai/artifact/PeUu4yiXDVj2YJy7LRjV3p): spin for a one-day scientific software project to build.
 - [Advanced module](https://claude.ai/artifact/GCeakGrgaBtDPPkbkR4rZA): build a data validator skill, build a skill for your computing cluster, and review the PyDESeq2 source code with Claude. The `validation-challenge/` folder holds its data.
 
 ## Getting the files
