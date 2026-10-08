@@ -16,6 +16,8 @@ Each folder has a `README.txt` that describes every file, where it came from, an
 - [Git and GitHub cheat sheet](https://claude.ai/artifact/Bek9aLSPmZD8Fkghfk6hFY): what git and GitHub do when Claude Code manages them, and what to ask Claude.
 - [Project wheel](https://claude.ai/artifact/JjtCTRf3nRBpPtYwKDoAZ8): spin for a one-day data project in genomics or microbiology.
 - [Software project wheel](https://claude.ai/artifact/PeUu4yiXDVj2YJy7LRjV3p): spin for a one-day scientific software project to build.
+- [Airway RNA-seq results explorer](https://claude.ai/artifact/8eQrrHBAyDJjgvKVRMfovU): interactive reference analysis of the airway data, with a volcano plot, any gene across all 16 samples, PCA and a results table.
+- [Moving Pictures 16S results explorer](https://claude.ai/artifact/CfS48EWPE4ASCTjJ9u3ACJ): interactive reference analysis of the microbiome data, with composition, diversity, ordination and genus comparisons between body sites.
 - [Advanced module](https://claude.ai/artifact/GCeakGrgaBtDPPkbkR4rZA): build a data validator skill, build a skill for your computing cluster, and review the PyDESeq2 source code with Claude. The `validation-challenge/` folder holds its data.
 
 ## Getting the files
